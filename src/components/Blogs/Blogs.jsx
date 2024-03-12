@@ -8,8 +8,8 @@ const Blogs = () => {
         .then(data=>setBlogs(data))
     },[])
     return (
-        <div>
-            
+        <div className="w-2/3 bg-green-200">
+            <h3 className="text-4xl">Blogs:{blogs.length}</h3>
         </div>
     );
 };
