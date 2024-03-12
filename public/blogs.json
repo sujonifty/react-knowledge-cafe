@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "title": "Book Title 1",
+      "author_img": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "author": "Author Name 1",
+      "reading_time": 2,
+      "hashtag": "#fiction #adventure"
+    },
+    {
+      "id": 2,
+      "cover": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "title": "Book Title 2",
+      "author_img": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "author": "Author Name 2",
+      "reading_time": 1.5,
+      "hashtag": "#mystery #thriller"
+    },
+    {
+      "id": 3,
+      "cover": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "title": "Book Title 3",
+      "author_img": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "author": "Author Name 3",
+      "reading_time": 3,
+      "hashtag": "#sciencefiction #dystopian"
+    },
+    {
+      "id": 4,
+      "cover": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "title": "Book Title 4",
+      "author_img": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "author": "Author Name 4",
+      "reading_time": 2.5,
+      "hashtag": "#romance #historical"
+    },
+    {
+      "id": 5,
+      "cover": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "title": "Book Title 5",
+      "author_img": "https://www.freeimages.com/psd/socialpost-light-5690375",
+      "author": "Author Name 5",
+      "reading_time": 1,
+      "hashtag": "#fantasy #magic"
+    }
+  ]
+  
